@@ -1,0 +1,11 @@
+.card {
+    flex: 0 0 20%;
+    padding: 20px;
+    border: 2px solid #212121;
+    border-radius: 20px;
+}
+
+.card-title {
+    font-size: 25px;
+    text-align: center;
+}

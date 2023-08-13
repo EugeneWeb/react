@@ -1,0 +1,11 @@
+.menu-list {
+    display: flex;
+    gap: 30px;
+}
+
+.menu-link {
+  font-size: 20px;
+}
+.menu-link:hover {
+  text-decoration: underline;
+}
